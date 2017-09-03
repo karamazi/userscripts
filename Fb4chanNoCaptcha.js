@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name         FB->4chan No Captcha
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/karamazi/userscripts/blob/master/Fb4chanNoCaptcha.js
 // @version      0.1
 // @description  Fixes 4chan images links in FB chat box, so that they do not generate captcha.
+// @updateUrl https://github.com/karamazi/userscripts/blob/master/Fb4chanNoCaptcha.js
+// @downloadUrl https://github.com/karamazi/userscripts/blob/master/Fb4chanNoCaptcha.js
+// @homepage https://github.com/karamazi/userscripts
 // @author       You
 // @include http://www.facebook.com/*
 // @include https://www.facebook.com/*
