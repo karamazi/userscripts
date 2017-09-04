@@ -23,7 +23,6 @@
             if(!link_span_containers[i].firstElementChild) {
                 continue;
             }
-            console.log(link_span_containers[i]);
             var link_elements = get_ahref_element(link_span_containers[i]);
 
             for(var j = 0; j < link_elements.length; j++ ) {
